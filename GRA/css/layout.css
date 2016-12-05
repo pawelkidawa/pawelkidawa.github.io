@@ -1,0 +1,16 @@
+.container{
+	width: 900px;
+	margin: 25px auto;
+	overflow: hidden;
+}
+
+.pull-right {float: right;}
+.pull-left { float:left;}
+.buttonWrapper {width: 900px; margin-right: 50px;}
+.canvasWrapper canvas{background: #000000}
+
+.clearfix:after, .clearfix:before{
+	clear: both;
+	content: "";
+	display: table;
+}
